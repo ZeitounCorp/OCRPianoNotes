@@ -25,3 +25,4 @@ yarn-error.log*
 #user files
 TODO
 firebase.config.js
+package-lock.json
