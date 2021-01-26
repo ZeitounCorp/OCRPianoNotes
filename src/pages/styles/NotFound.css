@@ -1,0 +1,11 @@
+.card_root {
+  min-width: 275px;
+}
+
+.media {
+  height: 50vh;
+  background-image: url('../../assets/page_not_found.png');
+  background-repeat: no-repeat;
+  background-size: contain !important;
+  background-position: center;
+}
